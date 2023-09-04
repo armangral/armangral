@@ -1,7 +1,7 @@
 # Hi there 👋, I'm AbdulRehman Mangral!
 # 💫 About Me:
-🎓 Currently pursuing my Bachelor's in Computer Science
-💻 Driven by a passion for software development
+🎓 Currently pursuing my Bachelor's in Computer Science  
+💻 Driven by a passion for software development  
 🌟 Committed to continuous learning and skill enhancement
 
 
@@ -20,5 +20,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=armangral&icon=5&color=7)](https://visitcount.itsvg.in)
+
 # Thanks for visiting 😄!
