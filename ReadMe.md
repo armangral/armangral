@@ -1,6 +1,6 @@
 # Hi there 👋, I'm AbdulRehman Mangral!
 # 💫 About Me:
-🎓 Currently pursuing my Bachelor's in Computer Science  
+🎓 Computer Scientist 
 💻 Driven by a passion for software development  
 🌟 Committed to continuous learning and skill enhancement
 
